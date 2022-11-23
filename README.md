@@ -1,12 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hey!+This+is+Sai+Teja)](https://github.com/saiteja-madha)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Heyo!+I+am+ZWZODO)](https://github.com/ZWZODO)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Worked as a Mulesoft Software Enginner
-- 👨‍💻 &nbsp; I’m currently studying Software Engineering at Arizona State University.
-- 🤔 &nbsp; I’m exploring new technologies and developing software solutions and quick hacks.
-- 💬 &nbsp; Ask me anything about discord bots.
-- 🌱 &nbsp; I’m currently learning python.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -24,16 +19,15 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
 
 <h3> 📈 &nbsp;My Stats</h3>
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja-madha&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZWZODO&theme=buefy&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-madha&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZWZODO&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
 </div>
 
@@ -41,8 +35,8 @@
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=saiteja-madha&theme=dark)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ZWZODO&theme=dark)
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=saiteja-madha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ZWZODO&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
